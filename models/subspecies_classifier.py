@@ -166,6 +166,13 @@ print(f'training loss : {train_loss}')
 
 print(f'val loss : {val_loss}')
 
+print("Classification report")
+# Accuracy by subspecies
+test_pred = model1.predict(test_X)
+test_pred = np.argmax(test_pred, axis=1)
+test_truth = np.argmax(test_y.values, axis=1)
+print(metrics.classification_report(test_truth, test_pred, target_names=test_y.columns))
+
 # saving the model
 MODEL_NAME = 'Subspecies_classifier.h5'
 model1.save(f'./models/{MODEL_NAME}')
