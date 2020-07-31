@@ -63,24 +63,55 @@ Below is the neural network architect of trained model.
 ![Subspecies model](https://github.com/Uttam580/Honey_Bees_Classifier/blob/master/Subspecies_classifier.h5.png) |  ![Health model ](https://github.com/Uttam580/Honey_Bees_Classifier/blob/master/health_classifier.h5.png)
 
 
+2. Building and hosting using FLASK.
+
+## Directory Tree
+
+```
+honey_bees_classifier
+├─ Dataset
+├─ logger
+├─ models
+│  └─ eda
+├─ static
+│  ├─ css
+│  ├─ images
+│  └─ js
+├─ subspecies_files
+├─ templates
+└─ uploads
+```
 
 
+##  Contents
 
+    *```Dataset``` :  Contains raw data for training (images , csv )
 
+    *```logger```  :  contains log file while training the model so that we can check the model perfomance  after training.
+
+    *```models```  :  contains model training script and trained model file
+
+    *```static```  :  static part of UI
+
+    *```templates```: frontend templates of UI
+
+    *```uploads```  :   when images is uploaded it will save in uploads and will use for prediction.
+
+    *```standalone.py``` : simple standalone py script for prediction. 
 
 
   
 ## Installation
 
-* Clone this repository and unzip it.
+    * Clone this repository and unzip it.
 
-* create new env with python 3 and activate it .
+    * create new env with python 3 and activate it .
 
-* Install the required packages using pip install -r requirements.txt
+    * Install the required packages using pip install -r requirements.txt
 
-* Execute the command: python app.py
+    * Execute the command: python app.py
 
-* Open ```http://127.0.0.1:5000/``` in your browser.
+    * Open ```http://127.0.0.1:5000/``` in your browser.
 
 ## Technologies Used
 
