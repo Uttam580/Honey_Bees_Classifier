@@ -32,7 +32,7 @@ Medium Blog:
   Dataset with adnotated images of bees from various locations of US, captured over several months during 2018, at different hours, from various bees subspecies, and with different health problems.
   Data has downloded form kaggle .Use Below link to download the dataset.
 
-    Dataset : <a href="https://www.kaggle.com/jenny18/honey-bee-annotated-images">Honey Bees Data </a>
+Dataset : <a href="https://www.kaggle.com/jenny18/honey-bee-annotated-images">Honey Bees Data </a>
 
   This dataset contains 5,100+ bee images annotated with location, date, time, subspecies, health condition, caste, and pollen
 
