@@ -117,7 +117,7 @@ honey_bees_classifier
 
 ## Bug / Feature Request
 
-If you find a bug (unable to initialize cuddnn / or gave undesired results), kindly open an issue <a href = "https://github.com/Uttam580/Honey_Bees_Classifier/issues/new">here</a> by including your search query and the expected result.
+If you find a bug (unable to initialize cudnn / or gave undesired results), kindly open an issue <a href = "https://github.com/Uttam580/Honey_Bees_Classifier/issues/new">here</a> by including your search query and the expected result.
 
 
 
