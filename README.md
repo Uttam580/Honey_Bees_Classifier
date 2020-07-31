@@ -119,7 +119,7 @@ honey_bees_classifier
 
 ![](https://forthebadge.com/images/badges/made-with-python.svg)
 
-[<img target="_blank" src="https://www.tensorflow.org/images/tf_logo_social.png" width=100 height=100>](https://www.tensorflow.org)[<img target="_blank" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" width=100 height=100>](https://flask.palletsprojects.com/en/1.1.x/) 
+[<img target="_blank" src="https://www.tensorflow.org/images/tf_logo_social.png" width=150 height=150>](https://www.tensorflow.org)[<img target="_blank" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" width=150 height=100>](https://flask.palletsprojects.com/en/1.1.x/) 
 
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
