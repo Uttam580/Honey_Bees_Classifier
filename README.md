@@ -15,7 +15,7 @@ Medium Blog:
 ## Objective: 
 
   In this project, the objective is to predict  strength and health of honey bees.
-    frequent check-ups on the hive are time-consuming and disruptive to the bees' workflow and hive in general.
+  frequent check-ups on the hive are time-consuming and disruptive to the bees' workflow and hive in general.
     By understanding the bees we can understand hive itself. 
 
     * How can we improve our understanding of a hive through images of bees?
@@ -32,7 +32,7 @@ Medium Blog:
   Dataset with adnotated images of bees from various locations of US, captured over several months during 2018, at different hours, from various bees subspecies, and with different health problems.
   Data has downloded form kaggle .Use Below link to download the dataset.
 
-  <p>Dataset Link: <a href="https://www.kaggle.com/jenny18/honey-bee-annotated-images">Honey Bees Data </a></p>
+    Dataset : <a href="https://www.kaggle.com/jenny18/honey-bee-annotated-images">Honey Bees Data </a>
 
   This dataset contains 5,100+ bee images annotated with location, date, time, subspecies, health condition, caste, and pollen
 
