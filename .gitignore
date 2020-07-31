@@ -13,5 +13,17 @@ ENV/
 env.bak/
 .
 
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
 # bees images 
 /Dataset/bee_imgs
+
+# Flask stuff:
+instance/
+.webassets-cache
+
+# Cython debug symbols
+cython_debug/
