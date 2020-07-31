@@ -44,7 +44,7 @@ Medium Blog:
 
 ## Technical Aspect
 
-1. Training a deep learning model using tensorflow. I trained model on local system using NVIDIA GEFORCE GTX   1650 for for two models (subSpecies Classifier and health_classifier). I have to train 5k images for both the models. Both models trained on 30 epochs and for 32 batch size.
+1. Training a deep learning model using tensorflow. I trained model on local system using NVIDIA GEFORCE GTX   1650 for for two models (subSpecies Classifier and health_classifier). I have to train 5k images for both the models. Both models trained for 30 epochs and on 32 batch size.
 
 ###### ```To check if training  is acelearted by gpu or not```
 
@@ -56,16 +56,17 @@ Medium Blog:
 
     print(device_lib.list_local_devices())
 
-    Below is the neural network architect of trained model.
+Below is the neural network architect of trained model.
 
-**```Subspecies model```**
+**```Subspecies model```**            |  **```Health model```**
+:-------------------------:|:-------------------------:
+![Subspecies model](https://github.com/Uttam580/Honey_Bees_Classifier/blob/master/Subspecies_classifier.h5.png) |  ![Health model ](https://github.com/Uttam580/Honey_Bees_Classifier/blob/master/health_classifier.h5.png)
 
-![Subspecies model](https://github.com/Uttam580/Honey_Bees_Classifier/blob/master/Subspecies_classifier.h5.png)
 
 
-**```Health model```**
 
-![Health model ](https://github.com/Uttam580/Honey_Bees_Classifier/blob/master/health_classifier.h5.png)
+
+
 
 
   
