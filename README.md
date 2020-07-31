@@ -97,7 +97,7 @@ honey_bees_classifier
 
 * ```templates```: frontend templates of UI
 
-*```uploads```  :   when images is uploaded it will save in uploads and will use for prediction.
+* ```uploads```  :   when images is uploaded it will save in uploads and will use for prediction.
 
 * ```standalone.py``` : simple standalone py script for prediction. 
 
