@@ -85,33 +85,33 @@ honey_bees_classifier
 
 ##  Contents
 
-    *```Dataset``` :  Contains raw data for training (images , csv )
+*```Dataset``` :  Contains raw data for training (images , csv )
 
-    *```logger```  :  contains log file while training the model so that we can check the model perfomance  after training.
+*```logger```  :  contains log file while training the model so that we can check the model perfomance  after training.
 
-    *```models```  :  contains model training script and trained model file
+*```models```  :  contains model training script and trained model file
 
-    *```static```  :  static part of UI
+*```static```  :  static part of UI
 
-    *```templates```: frontend templates of UI
+*```templates```: frontend templates of UI
 
-    *```uploads```  :   when images is uploaded it will save in uploads and will use for prediction.
+*```uploads```  :   when images is uploaded it will save in uploads and will use for prediction.
 
-    *```standalone.py``` : simple standalone py script for prediction. 
+*```standalone.py``` : simple standalone py script for prediction. 
 
 
   
 ## Installation
 
-    * Clone this repository and unzip it.
+* Clone this repository and unzip it.
 
-    * create new env with python 3 and activate it .
+* create new env with python 3 and activate it .
 
-    * Install the required packages using pip install -r requirements.txt
+* Install the required packages using pip install -r requirements.txt
 
-    * Execute the command: python app.py
+* Execute the command: python app.py
 
-    * Open ```http://127.0.0.1:5000/``` in your browser.
+* Open ```http://127.0.0.1:5000/``` in your browser.
 
 ## Technologies Used
 
