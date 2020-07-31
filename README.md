@@ -60,12 +60,12 @@ Medium Blog:
 
 **```Subspecies model```**
 
-    ![Subspecies model](https://github.com/Uttam580/Honey_Bees_Classifier/blob/master/Subspecies_classifier.h5.png)
+![Subspecies model](https://github.com/Uttam580/Honey_Bees_Classifier/blob/master/Subspecies_classifier.h5.png)
 
 
 **```Health model```**
 
-     ![Health model ](https://github.com/Uttam580/Honey_Bees_Classifier/blob/master/health_classifier.h5.png)
+![Health model ](https://github.com/Uttam580/Honey_Bees_Classifier/blob/master/health_classifier.h5.png)
 
 
   
